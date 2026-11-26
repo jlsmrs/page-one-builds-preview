@@ -1,0 +1,12 @@
+{
+  "name": "page-one-builds-preview",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Page One Builds preview site (static HTML) served on Azure App Service.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
